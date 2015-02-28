@@ -1,0 +1,21 @@
+h1 {
+  font-family: Times;
+  text-align: center;
+}
+body {
+  background-image: url("http://www.kennethpwoodruff.com/PokerTable/images/Inventory/felt2.jpg");
+}
+ul {
+  font-weight: bold;
+  font-family: Times;
+}
+#shuffle {
+  background-color: #f50505;
+  display: block;
+  margin: 0px auto;
+  height: 40px;
+  width: 80px;
+  margin-bottom: 5px;
+  font-family: Times;
+  font-weight: bold;
+}
