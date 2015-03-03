@@ -30,3 +30,9 @@ function Deck() {
   setTimeout(shuffle, 100, m);
  }
 };
+
+var deck = new Deck();
+$('#shuffle').on('click', function() {
+ shuffle($('.cards').length);
+});
+});
